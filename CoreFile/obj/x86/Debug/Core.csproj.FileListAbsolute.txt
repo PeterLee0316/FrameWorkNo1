@@ -1,0 +1,443 @@
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.CMainFrame.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.Layers.WindowCanvas.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.Layers.WindowDraw.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.Layers.WindowDxf.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.Properties.Resources.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormBottomScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormChangePassword.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormIntro.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormJogOperation.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormMsgStart.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormLaserPatternData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormLaserProcessData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCamFocus.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCameraAlignTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormJogStage.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormTopScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormUserLogin.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormWaferCassette.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormPolygon.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormScanWindow.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormAutoScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormDataScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormHelpScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormLogScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormManualScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormTeachScreen.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCleanerData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCoaterData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCreateMaker.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCylinderData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormModelData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormModelList.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormMotorData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormScannerData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormSystemData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormSystemParaRead.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormVacuumData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormVisionData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormWaferFrameData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormWaferData.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormHandlerManualOP.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormIO.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormLimitSensor.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormOriginReturn.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormPushPullManualOP.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormSpinnerManualOP.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormStageManualOP.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormUnitInit.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormCameraTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormEdgeAlignTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormHandlerTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormWaferDieTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormLoaderTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormMacroAlignTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormMicroAlignTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormPushPullTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormScannerTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormSpinner1Teach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormLaserAlignTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormWorkStageTeach.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormAlarmDisplay.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormAlarmEdit.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormKeyBoard.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormKeyPad.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormMessageBox.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormTest.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.UI.FormWorkPieceInquiry.resources
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.csproj.GenerateResource.Cache
+T:\Program\CoreRun\LWDicer\bin\Debug\Core.exe.config
+T:\Program\CoreRun\LWDicer\bin\Debug\Core.exe
+T:\Program\CoreRun\LWDicer\bin\Debug\Core.pdb
+T:\Program\CoreRun\LWDicer\bin\Debug\EntityFramework.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\EntityFramework.SqlServer.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Newtonsoft.Json.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Core.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Grid.Base.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Grid.Windows.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Shared.Base.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Shared.Windows.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Tools.Base.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\Syncfusion.Tools.Windows.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\System.Data.SQLite.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\System.Data.SQLite.EF6.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\System.Data.SQLite.Linq.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\WW.Cad.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\WW.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\EnvDTE.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\WW.License.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\WW.GL.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\WW.Pdf.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\stdole.dll
+T:\Program\CoreRun\LWDicer\bin\Debug\EntityFramework.xml
+T:\Program\CoreRun\LWDicer\bin\Debug\EntityFramework.SqlServer.xml
+T:\Program\CoreRun\LWDicer\bin\Debug\Newtonsoft.Json.xml
+T:\Program\CoreRun\LWDicer\bin\Debug\System.Data.SQLite.xml
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.exe
+T:\Program\CoreRun\LWDicer\obj\x86\Debug\Core.pdb
+T:\Program\CoreRun\CoreFile\bin\Debug\Core.exe.config
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.exe
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.pdb
+T:\Program\CoreRun\CoreFile\bin\Debug\Core.exe
+T:\Program\CoreRun\CoreFile\bin\Debug\Core.pdb
+T:\Program\CoreRun\CoreFile\bin\Debug\EntityFramework.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\EntityFramework.SqlServer.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Newtonsoft.Json.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Core.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Grid.Base.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Grid.Windows.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Shared.Base.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Shared.Windows.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Tools.Base.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\Syncfusion.Tools.Windows.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\System.Data.SQLite.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\System.Data.SQLite.EF6.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\System.Data.SQLite.Linq.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\WW.Cad.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\WW.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\EnvDTE.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\WW.License.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\WW.GL.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\WW.Pdf.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\stdole.dll
+T:\Program\CoreRun\CoreFile\bin\Debug\EntityFramework.xml
+T:\Program\CoreRun\CoreFile\bin\Debug\EntityFramework.SqlServer.xml
+T:\Program\CoreRun\CoreFile\bin\Debug\Newtonsoft.Json.xml
+T:\Program\CoreRun\CoreFile\bin\Debug\System.Data.SQLite.xml
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.CMainFrame.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.Layers.WindowCanvas.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.Layers.WindowDraw.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.Layers.WindowDxf.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.Properties.Resources.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormBottomScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormChangePassword.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormIntro.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormJogOperation.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormMsgStart.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormLaserPatternData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormLaserProcessData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCamFocus.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCameraAlignTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormJogStage.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormTopScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormUserLogin.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormWaferCassette.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormPolygon.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormScanWindow.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormAutoScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormDataScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormHelpScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormLogScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormManualScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormTeachScreen.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCleanerData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCoaterData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCreateMaker.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCylinderData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormModelData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormModelList.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormMotorData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormScannerData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormSystemData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormSystemParaRead.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormVacuumData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormVisionData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormWaferFrameData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormWaferData.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormHandlerManualOP.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormIO.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormLimitSensor.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormOriginReturn.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormPushPullManualOP.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormSpinnerManualOP.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormStageManualOP.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormUnitInit.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormCameraTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormEdgeAlignTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormHandlerTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormWaferDieTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormLoaderTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormMacroAlignTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormMicroAlignTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormPushPullTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormScannerTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormSpinner1Teach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormLaserAlignTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormWorkStageTeach.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormAlarmDisplay.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormAlarmEdit.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormKeyBoard.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormKeyPad.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormMessageBox.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormTest.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.UI.FormWorkPieceInquiry.resources
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.csproj.GenerateResource.Cache
+T:\Program\CoreRun\CoreFile\obj\x86\Debug\Core.csprojResolveAssemblyReference.cache
+T:\Program\Core_Vision\CoreFile\bin\Debug\Core.exe.config
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.exe
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.pdb
+T:\Program\Core_Vision\CoreFile\bin\Debug\Core.exe
+T:\Program\Core_Vision\CoreFile\bin\Debug\Core.pdb
+T:\Program\Core_Vision\CoreFile\bin\Debug\EntityFramework.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Core.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Grid.Base.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Grid.Windows.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Shared.Base.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Shared.Windows.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Tools.Base.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Tools.Windows.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.EF6.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.Linq.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\WW.Cad.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\WW.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\EnvDTE.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\WW.License.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\WW.GL.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\WW.Pdf.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\stdole.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\EntityFramework.xml
+T:\Program\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.xml
+T:\Program\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.xml
+T:\Program\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.xml
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.CMainFrame.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.Layers.WindowCanvas.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.Layers.WindowDraw.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.Layers.WindowDxf.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.Properties.Resources.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormBottomScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormChangePassword.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIntro.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormJogOperation.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMsgStart.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLaserProcessData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTopScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormUserLogin.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScanWindow.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAutoScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormDataScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormHelpScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLogScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormManualScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTeachScreen.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCreateMaker.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCylinderData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormModelData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormModelList.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMotorData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScannerData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemParaRead.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormVacuumData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormVisionData.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormHandlerManualOP.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIO.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLimitSensor.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormOriginReturn.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormPushPullManualOP.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSpinnerManualOP.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormStageManualOP.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormUnitInit.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCameraTeach.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScannerTeach.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormWorkStageTeach.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAlarmDisplay.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAlarmEdit.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyBoard.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyPad.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMessageBox.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTest.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormWorkPieceInquiry.resources
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.csproj.GenerateResource.Cache
+T:\Program\Core_Vision\CoreFile\obj\x86\Debug\Core.csprojResolveAssemblyReference.cache
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Chart.Base.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Chart.Windows.dll
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Chart.Base.xml
+T:\Program\Core_Vision\CoreFile\bin\Debug\Syncfusion.Chart.Windows.xml
+D:\OB Doc\Core_Vision\Core_Vision\CoreFile\bin\Debug\Core.exe.config
+D:\OB Doc\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.exe
+D:\OB Doc\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.pdb
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.CMainFrame.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.Properties.Resources.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormBottomScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormChangePassword.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIntro.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormJogOperation.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMsgStart.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLaserProcessData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTopScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormUserLogin.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAutoScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormDataScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormHelpScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLogScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormManualScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTeachScreen.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCreateMaker.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCylinderData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormModelData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormModelList.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMotorData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScannerData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemParaRead.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormVacuumData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormVisionData.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormHandlerManualOP.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIO.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLimitSensor.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormOriginReturn.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormPushPullManualOP.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSpinnerManualOP.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormStageManualOP.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormUnitInit.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCameraTeach.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScannerTeach.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormWorkStageTeach.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAlarmDisplay.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAlarmEdit.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyBoard.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyPad.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMessageBox.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTest.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormWorkPieceInquiry.resources
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.csproj.GenerateResource.Cache
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\Core.exe.config
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\Core.exe
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\Core.pdb
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\EntityFramework.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.EF6.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.Linq.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\WW.Cad.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\WW.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\EnvDTE.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\WW.License.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\WW.GL.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\WW.Pdf.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\stdole.dll
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\EntityFramework.xml
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.xml
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.xml
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.xml
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\bin\Debug\EnvDTE.xml
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.exe
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.pdb
+D:\OB Doc\Core_Vision\Core_Vision\Core_Vision\CoreFile\obj\x86\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Core.exe.config
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.exe
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.pdb
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Core.exe
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Core.pdb
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\WW.Cad.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\WW.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\WW.License.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\WW.GL.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\WW.Pdf.dll
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.xml
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.xml
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.CMainFrame.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.Properties.Resources.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormBottomScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormChangePassword.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIntro.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMsgStart.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTopScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormUserLogin.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAutoScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormDataScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormHelpScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLogScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormManualScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTeachScreen.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormModelData.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMotorData.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemData.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemParaRead.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormVisionData.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIO.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCameraTeach.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScannerTeach.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormWorkStageTeach.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyBoard.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyPad.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMessageBox.resources
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.csproj.GenerateResource.Cache
+D:\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.csprojResolveAssemblyReference.cache
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Core.exe.config
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Core.exe
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Core.pdb
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.dll
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.dll
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.dll
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.dll
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.EF6.dll
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.Linq.dll
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.xml
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\EntityFramework.SqlServer.xml
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\Newtonsoft.Json.xml
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\bin\Debug\System.Data.SQLite.xml
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.CMainFrame.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.Properties.Resources.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormBottomScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormChangePassword.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIntro.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMsgStart.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTopScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormUserLogin.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormAutoScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormHelpScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormLogScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormDataScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormManualScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormTeachScreen.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormModelData.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMotorData.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormSystemData.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormVisionData.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormIO.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormCameraTeach.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormScannerTeach.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormWorkStageTeach.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyBoard.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormKeyPad.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.FormMessageBox.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.csproj.GenerateResource.cache
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.csproj.CoreCompileInputs.cache
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.csproj.CopyComplete
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.exe
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.pdb
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.UI.Utility.FormAlarmEdit.resources
+D:\D BackUp\Projects\Align_C#\Core_Vision\CoreFile\obj\x86\Debug\Core.csprojAssemblyReference.cache
